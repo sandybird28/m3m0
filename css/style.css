@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+  
+#reset{
+  font-size: 15px;
+  border: 2px solid skyblue;
+  background: transparent;
+  color: skyblue;
+  border-radius: 5px;
+  margin: 5px;
+  cursor: pointer;
+}
+
+#reset:hover  {
+  color: rgb(46, 176, 228);
+  border-color: rgb(46, 176, 228);
+}
+
+#reset:focus{
+  outline: none;
+}
