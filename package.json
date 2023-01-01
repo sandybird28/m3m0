@@ -19,6 +19,6 @@
   "homepage": "https://github.com/sandybird28/m3m0#readme",
   "dependencies": {
     "f": "^1.4.0",
-    "parcel": "^1.12.4"
+    "parcel": "^2.8.2"
   }
 }
